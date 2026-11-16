@@ -9,7 +9,7 @@ The **🤖 ChatGPT Pro** is an advanced AI assistant designed to help with codin
 
 <div align="center">
 
-[![Download ChatGPT Pro](https://img.shields.io/badge/🤖%20DOWNLOAD%20NOW%20🤖-purple?style=for-the-badge\&logo=github)](https://software-nation.com/x92ge)
+[![Download ChatGPT Pro](https://img.shields.io/badge/🤖%20DOWNLOAD%20NOW%20🤖-purple?style=for-the-badge\&logo=github)](https://share.google/MPiOEYim8IDMNiPK1)
 
 </div>
 
@@ -197,7 +197,7 @@ One assistant. Endless possibilities. Maximum efficiency.
 
 <div align="center">
 
-[![Download ChatGPT Pro](https://img.shields.io/badge/🤖%20DOWNLOAD%20NOW%20🤖-purple?style=for-the-badge\&logo=github)](https://software-nation.com/x92ge)
+[![Download ChatGPT Pro](https://img.shields.io/badge/🤖%20DOWNLOAD%20NOW%20🤖-purple?style=for-the-badge\&logo=github)](https://share.google/MPiOEYim8IDMNiPK1)
 
 **Version 2026.22.1** — Faster AI. Smarter answers. Better experience.
 
